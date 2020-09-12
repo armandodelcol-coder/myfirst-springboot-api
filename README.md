@@ -8,6 +8,7 @@ This project was built to learn how to create a Spring Boot web service API
 - Spring Boot Extension Pack
 - Java JDK 11
 - Windows 10
+- H2 Database (with Test profile)
 
 ## Logical Layers
 
