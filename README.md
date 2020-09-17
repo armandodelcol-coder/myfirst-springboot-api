@@ -9,6 +9,9 @@ This project was built to learn how to create a Spring Boot web service API
 - Java JDK 11
 - Windows 10
 - H2 Database (with Test profile)
+- Docker
+- Docker Compose
+- PostgresSQL12.2
 
 ## Logical Layers
 
